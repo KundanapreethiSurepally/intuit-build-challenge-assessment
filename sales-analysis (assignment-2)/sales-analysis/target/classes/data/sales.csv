@@ -1,0 +1,16 @@
+order_id,region,country,category,product,order_date,quantity,unit_price
+1001,APAC,India,Electronics,Smartphone X,2024-01-05,3,25000
+1002,APAC,India,Electronics,Laptop Pro,2024-01-07,1,78000
+1003,EU,Germany,Furniture,Office Chair,2024-02-10,5,6000
+1004,EU,Germany,Electronics,Smartphone X,2024-02-15,2,26000
+1005,NA,USA,Electronics,Tablet Plus,2024-02-18,4,30000
+1006,NA,USA,Furniture,Standing Desk,2024-03-02,2,22000
+1007,APAC,India,Furniture,Office Chair,2024-03-05,3,5800
+1008,APAC,Japan,Electronics,Camera Z,2024-03-12,2,45000
+1009,EU,France,Electronics,Laptop Pro,2024-03-18,1,80000
+1010,EU,France,Furniture,Bookshelf,2024-04-01,4,7000
+1011,NA,USA,Electronics,Smartwatch S,2024-04-05,6,15000
+1012,APAC,India,Electronics,Tablet Plus,2024-04-09,2,32000
+1013,APAC,Japan,Furniture,Standing Desk,2024-04-15,1,23000
+1014,EU,Germany,Electronics,Camera Z,2024-04-20,1,47000
+1015,NA,USA,Electronics,Smartphone X,2024-04-25,3,25500
